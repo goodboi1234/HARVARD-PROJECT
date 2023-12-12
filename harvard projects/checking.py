@@ -1,2 +1,5 @@
+
+#THIS IS NOT A PART OF THE MAIN PROJECT.  I CHECK DIFFERET BUNCH OF CODESS OR TRY NEW LEARNT CODES BEFORE WRITING THEM INTO THE MAIN BAYESNET FILE , HERE.
+
 import pomegranate as p 
-print(hasattr(p , "P.N£ode"))
+print(hasattr(p , "P.Node"))
